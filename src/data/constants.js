@@ -170,7 +170,7 @@ export const projects = [
     description:
       "An elegant website, built on Node.js, Express, and MongoDB, offers clients a seamless platform for purchasing premium electric lighting. The integration of Razor pay ensures secure and convenient payment transactions.",
     image:
-      "https://user-images.githubusercontent.com/133078835/294134654-67a55aa0-4d73-4a0b-be4f-9d028c25d6de.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQzNTk5NTgsIm5iZiI6MTcwNDM1OTY1OCwicGF0aCI6Ii8xMzMwNzg4MzUvMjk0MTM0NjU0LTY3YTU1YWEwLTRkNzMtNGEwYi1iZTRmLTlkMDI4YzI1ZDZkZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwNFQwOTE0MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYmUzMWRiNDEzZWI3ZDA3ZTcyNTM0N2ZiZDJiMGE5OWM5OWIxNDI4YmRiZjc1YjdlN2ZkZWNhNTEwMmNkYzg3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.H-hNsYGZ4yrYlUu8KuL4GmXYNifmLivsPRMK45u2y8k",
+      "https://user-images.githubusercontent.com/133078835/294134654-67a55aa0-4d73-4a0b-be4f-9d028c25d6de.png?",
     tags: [
       "Node Js",
       "Express Js",
