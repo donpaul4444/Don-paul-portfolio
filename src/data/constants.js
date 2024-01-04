@@ -191,7 +191,7 @@ export const projects = [
     description:
       "Explore a sleek gaming website showcasing the latest releases, where you can effortlessly browse and discover games. Seamlessly sort through options by genre, platform, or the most recently added titles for an enjoyable gaming experience.",
     image:
-      "https://private-user-images.githubusercontent.com/133078835/294136499-fb72e78f-bc3f-4e60-9e45-73a36fb549ff.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQzNjA0MzYsIm5iZiI6MTcwNDM2MDEzNiwicGF0aCI6Ii8xMzMwNzg4MzUvMjk0MTM2NDk5LWZiNzJlNzhmLWJjM2YtNGU2MC05ZTQ1LTczYTM2ZmI1NDlmZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwNFQwOTIyMTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMWM1MWVkMjk5ODAxMjM4NmVjNTNiNzIwMzFmYWUwZDA3NzczODViYWU4NGJjNjkyZTAxOTFmZWM0NDcwMzk2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.w3Ftc_9bj-bAuO2OcAxFEfhnf3hSpzURfJCbPOH_6jc",
+      "https://user-images.githubusercontent.com/133078835/294136499-fb72e78f-bc3f-4e60-9e45-73a36fb549ff.png?",
     tags: [
       "React Js",
       "Node Js",
